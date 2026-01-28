@@ -16,6 +16,6 @@
 ### StateFlow
   - StateFlow on tilanhaltija, joka lähettää nykyiset ja uudet tilapäivitykset keräilijöille.
   - Muutos tilassa päivittää composablet automaattisesti
-#### Youtube-demo:
+#### Youtube-demo: https://youtu.be/mMMSeZVAVrQ
 #### APK: 
 
